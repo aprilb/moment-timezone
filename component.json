@@ -1,0 +1,12 @@
+{
+    "name": "moment-timezone",
+    "description" : "Parse and display moments in any timezone.",
+    "version": "0.2.5",
+    "main": "moment-timezone.js",
+    "scripts": [
+        "moment-timezone.js"
+    ],
+    "dependencies" : {
+        "moment/moment" : "~2.6.0"
+    }
+}
